@@ -1,0 +1,5 @@
+D:\Games\RimworldModding\RimWorld\Mods\Multiplayer_Companion\Assemblies\Multiplayer_Companion.dll
+D:\Games\RimworldModding\RimWorld\Mods\Multiplayer_Companion\Source\obj\Debug\Multiplayer_Companion.csproj.AssemblyReference.cache
+D:\Games\RimworldModding\RimWorld\Mods\Multiplayer_Companion\Source\obj\Debug\Multiplayer_Companion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\RimworldModding\RimWorld\Mods\Multiplayer_Companion\Source\obj\Debug\Multiplayer_Companion.csproj.CoreCompileInputs.cache
+D:\Games\RimworldModding\RimWorld\Mods\Multiplayer_Companion\Source\obj\Debug\Multiplayer_Companion.dll

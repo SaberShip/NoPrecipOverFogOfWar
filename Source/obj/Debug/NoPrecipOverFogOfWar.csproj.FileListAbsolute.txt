@@ -1,0 +1,5 @@
+D:\Games\RimworldModding\RimWorld\Mods\NoPrecipOverFogOfWar\Assemblies\NoPrecipOverFogOfWar.dll
+D:\Games\RimworldModding\RimWorld\Mods\NoPrecipOverFogOfWar\Source\obj\Debug\NoPrecipOverFogOfWar.csproj.AssemblyReference.cache
+D:\Games\RimworldModding\RimWorld\Mods\NoPrecipOverFogOfWar\Source\obj\Debug\NoPrecipOverFogOfWar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\RimworldModding\RimWorld\Mods\NoPrecipOverFogOfWar\Source\obj\Debug\NoPrecipOverFogOfWar.csproj.CoreCompileInputs.cache
+D:\Games\RimworldModding\RimWorld\Mods\NoPrecipOverFogOfWar\Source\obj\Debug\NoPrecipOverFogOfWar.dll

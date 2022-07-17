@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Byxoe2ryHactTm2vB6CfjET3l69Gj0K28M2zws8soOPXUI9mdJCpz6dUtxBKJl5DNPhz7SLwzKjNOZY+H7uKgw==",
+  "success": true,
+  "projectFilePath": "D:\\Games\\RimworldModding\\RimWorld\\Mods\\NoPrecipOverFogOfWar\\Source\\NoPrecipOverFogOfWar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saber\\.nuget\\packages\\krafs.rimworld.ref\\1.3.3389\\krafs.rimworld.ref.1.3.3389.nupkg.sha512",
+    "C:\\Users\\Saber\\.nuget\\packages\\lib.harmony\\2.2.1\\lib.harmony.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
